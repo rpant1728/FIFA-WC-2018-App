@@ -1,0 +1,18 @@
+{
+    "expo": {
+    "name": "FIFA WC 2018",
+    "version": "1.0.0",	
+    "icon": "./img/app-logo.png",
+    "sdkVersion": "27.0.0",
+    "android": {
+	"package": "com.rpant1729.FIFAWC2018",
+         },
+    "packagerOpts": {
+        "nonPersistent": "--nonPersistent",
+        },
+    "orientation": "portrait",
+    }
+}
+
+
+
